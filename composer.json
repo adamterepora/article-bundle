@@ -1,5 +1,5 @@
 {
-    "name": "sulu/article-bundle",
+    "name": "adamterepora/article-bundle",
     "description": "Bundle for managing localized content-rich entities like blog-posts in the Sulu content management system",
     "type": "sulu-bundle",
     "license": "MIT",
